@@ -1,8 +1,3 @@
-/*
- * File : 0-putchar.c
- * Author : Fakomiti Mary
- * 
- */
 #include "main.h"
 /**
  * main - Prints "_putchar" followed by a new line.
